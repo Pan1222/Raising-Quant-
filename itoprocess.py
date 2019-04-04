@@ -4,7 +4,10 @@
 Created on Tue Apr  2 19:38:51 2019
 
 @author: peter
+content: simulate ito process and plot 
 """
+
+
 
 import numpy as np
 import math
